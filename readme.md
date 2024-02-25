@@ -1,4 +1,4 @@
-Hi My name is TAlhaoui Mouad
+Hi My name is Talhaoui Mouad
 ==============================               
 R&D Software Engineer and Data Scientist 
 ---------------------
