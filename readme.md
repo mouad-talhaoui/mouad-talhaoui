@@ -17,6 +17,8 @@ Software Engineer & Data Scientist passionate  about Machine Learning and Mathem
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouad-talhaoui&" alt="mouad-talhaoui" /></p>
 
+| <a href="https://github.com/mouad-talhaoui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-talhaoui&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
  
    
