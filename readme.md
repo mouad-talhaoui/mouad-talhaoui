@@ -1,9 +1,9 @@
 Hi My name is Talhaoui Mouad
 ==============================               
-R&D Software Engineer and Data Scientist 
+R&D Software Engineer 
 ---------------------
 
-Software Engineer & Data Scientist passionate  about Machine Learning and Mathematics Research.
+Software Engineer
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [talhaouimouad04@gmail.com](mailto:talhaouimouad04@gmail.com)
