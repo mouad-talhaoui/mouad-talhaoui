@@ -21,13 +21,15 @@ Software Engineer
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mouad-talhaoui&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouad-talhaoui&theme=2077" height="180em" />
 </div>
-
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouad-talhaoui&show_icons=true&locale=en" alt="mouad" /></p>
-
+</div>
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouad-talhaoui&" alt="mouad-talhaoui" /></p>
-
+</div>
+<div align="center">
 <p><a href="https://github.com/mouad-talhaoui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-talhaoui&layout=compact&theme=buefy&hide_border=true" /></a> </p>
-
+</div>
 
  
    
