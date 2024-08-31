@@ -1,16 +1,16 @@
 Hi My name is Talhaoui Mouad
 ==============================               
-Data Scientist & Software Engineer 
+Software Engineer 
 ---------------------
 
-Software Engineer & Data Scientist curious about Machine Learning and Artificial Intelligence. Passionate about Problem Solving, Data Structures and Algorithms. Thirsty for knowledge and collecting insights about every discipline I come across.
+Software Engineer, Passionate about Problem Solving, Data Structures and Algorithms. Thirsty for knowledge and collecting insights about every discipline I come across.
 
 
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [talhaouimouad04@gmail.com](mailto:talhaouimouad04@gmail.com)
 * 🧠  I'm learning more about Data Engineering and stepping up my competitive programming skills.
-* 🤝  I'm open to collaborating on Data Science or Web Development related projects.
+* 🤝  I'm open to collaborating on Web Development related projects.
 <!-- <img src ="https://github.com/mouad-talhaoui/mouad-talhaoui/blob/master/the_last_dinner_software.jfif">  -->
       
 <h3 align="left">Languages and Tools</h3>
