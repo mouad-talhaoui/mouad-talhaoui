@@ -7,7 +7,7 @@ Software Engineer, Passionate about Problem Solving, Data Structures and Algorit
 
 
 
-* 🌍  I'm based in Casablanca, Morocco
+* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [talhaouimouad04@gmail.com](mailto:talhaouimouad04@gmail.com)
 * 🧠  I'm learning more about Data Engineering and stepping up my competitive programming skills.
 * 🤝  I'm open to collaborating on Web Development related projects.
