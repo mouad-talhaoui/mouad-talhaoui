@@ -9,8 +9,6 @@ Morocco
 
 ### 📬 Contact
 - **Email:** [talhaouimouad04@gmail.com](mailto:talhaouimouad04@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#) *[Add your LinkedIn URL here]*
-- **Portfolio:** [Your Portfolio Website](#) *[Add your portfolio URL here]*
 
 ---
 
@@ -66,26 +64,6 @@ Morocco
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔹 [Project 1 Name](#)
-*Brief description of your best project*
-
-**Tech Stack:** Java, Spring Boot, MySQL
-
-[![View Project](#)](#) *[Add project link]*
-
-### 🔹 [Project 2 Name](#)
-*Brief description of another significant project*
-
-**Tech Stack:** Python, Flask, MongoDB
-
-[![View Project](#)](#) *[Add project link]*
-
-*[Add 2-3 more featured projects with descriptions]*
-
----
-
 ## 🎯 Open for Collaboration
 
 I'm actively looking to collaborate on:
@@ -103,7 +81,6 @@ If you find my work valuable and want to help me acquire better learning resourc
 ---
 
 ## 📚 Currently Learning
-- Data Engineering tools (Apache Spark, Kafka, Airflow)
 - Advanced System Design patterns
 - Cloud platforms (AWS/GCP)
 - Microservices architecture
@@ -115,14 +92,7 @@ I'm always open to discussing technology, collaboration opportunities, or just h
 
 **Connect with me:**
 - 📧 Email: talhaouimouad04@gmail.com
-- 💼 LinkedIn: *[Add your LinkedIn URL]*
-- 🐦 Twitter: *[Add your Twitter handle if you have one]*
 - 👨💻 GitHub: [mouad-talhaoui](https://github.com/mouad-talhaoui)
 
 ---
 
-<div align="center">
-  
-⭐ **"The only way to learn a new programming language is by writing programs in it."** - Dennis Ritchie
-
-</div>
