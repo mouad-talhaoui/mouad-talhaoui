@@ -15,6 +15,7 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -62,14 +63,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,spring,flask,fastapi" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,tailwind,materialui" />
   </a>
 </p>
 
