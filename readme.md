@@ -38,7 +38,7 @@
 - 🌱 I’m currently learning **Devops**
 
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, and PHP**
 
 - 📫 How to reach me **talhaouimouad04@gmail.com**
 
@@ -62,21 +62,21 @@
 
 - Backend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,spring,flask,fastapi" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,spring" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,tailwind,materialui" />
   </a>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
@@ -90,7 +90,7 @@
 
 - Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
   </a>
 </p>
